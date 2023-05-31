@@ -22,3 +22,5 @@ Você pode visualizar o layout do projeto original através
 Esse projeto está sob a Licença MIT.
 
 ---
+
+OBS:  No momento , alhuns links de redirecionamento ainda não foram aplicados, pois, iniciei este DevLinks antes de criar um site principal onde estarão as informações adicionais do site.
