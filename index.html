@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" class="light">
   <head>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -24,14 +24,23 @@
   <body>
     <div id="container">
       <div id="profile">
+        
+        <div>
         <img
-          src="./assets/profile andre calaça1.jpg"
+          src="./assets/avatar-dark.jpg"
           alt="foto do babalorixá André Calaça com óculos, barba e camisa branca"
         />
         <h2>Ilê Àsé Efumkemi</h2>
-        <h3>@babalorisacalaca</h3>
+        </div>
       </div>
-      <ul>
+      
+    <div id="switch" onclick="toggleMode()">
+      <button>
+      </button>
+      <span></span>
+    </div>
+      
+    <ul>
         <li>
           <a href="a"><strong>Jogo de Búzios</strong></a>
         </li>
@@ -47,7 +56,26 @@
         <li>
           <a href="a"><strong>Agende a sua Consulta Aqui!</strong></a>
         </li>
-      </ul>
-    </div>
+    </ul>
+      <div id="social-links">
+        <a href="https://www.instagram.com/babalorisacalaca/" target="_blank">
+          <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+        <a href="https://www.instagram.com/babalorisacalaca/" target="_blank">
+          <ion-icon name="logo-whatsapp"></ion-icon>
+        </a>
+      </div>
+    
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg .com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="./script.js"></script>
   </body>
 </html>
