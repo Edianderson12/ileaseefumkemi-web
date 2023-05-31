@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido durante o curso Discover da Rocketseat com as segu
 
 ## 🏷 Layout
 
-Você pode visualizar o layoout do projeto através
+Você pode visualizar o layout do projeto original através
 [desse link](<https://www.figma.com/file/nOda5hmPOY1Ng1WfHU3pJI/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-256&t=jFXCM1chjLPvulpT-0>).
 É necessário ter uma conta no [Figma](https://www.figma.com)
 
